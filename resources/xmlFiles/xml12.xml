@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><anime> 
+<filename>xml12</filename>
+<name>Sword Art Online</name>
+<enabled>true</enabled>
+<action>true</action>
+<adventure>true</adventure>
+<comedy>false</comedy>
+<romance>true</romance>
+<mecha>false</mecha>
+<sliceoflife>false</sliceoflife>
+<drama>true</drama>
+<scifi>false</scifi>
+<Q1a1>true</Q1a1>
+<Q1a2>false</Q1a2>
+<Q2a1>true</Q2a1>
+<Q2a2>false</Q2a2>
+<Q3a1>true</Q3a1>
+<Q3a2>false</Q3a2>
+<Q4a1>false</Q4a1>
+<Q4a2>true</Q4a2>
+<Q5a1>false</Q5a1>
+<Q5a2>true</Q5a2>
+<Q6a1>true</Q6a1>
+<Q6a1>false</Q6a1>
+<Q7a1>true</Q7a1>
+<Q7a2>false</Q7a2>
+<Q8a1>false</Q8a1>
+<Q8a2>true</Q8a2>
+<Q9a1>true</Q9a1>
+<Q9a2>false</Q9a2>
+<Q10a1>false</Q10a1>
+<Q10a1>true</Q10a1>
+<category>Action, Adventure,Romance</category>
+<episodes>25</episodes>
+<year>2012</year>
+<srating>8.30</srating>
+<urating>true</urating>
+<creator>Reki Kawahara</creator>
+<director>Tomohiko Ito</director>
+<studio>A-1 Pictures</studio>
+<link>http://www.hulu.com/watch/407996#i0,p0,d0</link>
+<summary>
+In the near future, a Virtual Reality Massive Multiplayer Online Role-Playing Game (VRMMORPG) called Sword Art Online has been released where players control their avatars with their bodies using a piece of technology called Nerve Gear. One day, players discover they cannot log out, as the game creator is holding them captive unless they reach the 100th floor of the game's tower and defeat the final boss. However, if they die in the game, they die in real life. Their struggle for survival starts now...
+</summary>
+</anime>
